@@ -1,4 +1,5 @@
 ﻿# kanban-dashboard
+ Usuario y Contraseña: admin
 
 ![pantallazo1](https://github.com/user-attachments/assets/e8e52291-aec2-4f14-aff4-378e6f3b6e7c)
 
