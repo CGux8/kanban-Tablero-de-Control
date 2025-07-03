@@ -1,0 +1,144 @@
+Iniciando post_projects.php
+Conexión exitosa a la base de datos
+Datos recibidos: Array
+(
+    [name] => hola2
+    [desc] => jola2
+    [userId] => 1
+    [start] => 2025-05-25
+    [end] => 2025-05-30
+    [progress] => 20
+    [status] => todo
+)
+
+Datos validados: name=hola2, desc=jola2, userId=1, start=2025-05-25, end=2025-05-30, progress=20, status=todo
+Consulta preparada: INSERT INTO projects (name, `desc`, userId, `start`, `end`, progress, status) VALUES (?, ?, ?, ?, ?, ?, ?)
+Proyecto creado con ID: 9
+Iniciando post_projects.php
+Conexión exitosa a la base de datos
+Datos recibidos: Array
+(
+    [name] => web
+    [desc] => jola
+    [userId] => 5
+    [start] => 2025-05-25
+    [end] => 2025-05-30
+    [progress] => 15
+    [status] => todo
+)
+
+Datos validados: name=web, desc=jola, userId=5, start=2025-05-25, end=2025-05-30, progress=15, status=todo
+Consulta preparada: INSERT INTO projects (name, `desc`, userId, `start`, `end`, progress, status) VALUES (?, ?, ?, ?, ?, ?, ?)
+Proyecto creado con ID: 10
+Iniciando post_projects.php
+Conexión exitosa a la base de datos
+Datos recibidos: Array
+(
+    [name] => tareas
+    [desc] => tareas2
+    [userId] => 10
+    [start] => 2025-05-25
+    [end] => 2025-06-04
+    [progress] => 5
+    [status] => todo
+)
+
+Datos validados: name=tareas, desc=tareas2, userId=10, start=2025-05-25, end=2025-06-04, progress=5, status=todo
+Consulta preparada: INSERT INTO projects (name, `desc`, userId, `start`, `end`, progress, status) VALUES (?, ?, ?, ?, ?, ?, ?)
+Proyecto creado con ID: 11
+Iniciando post_projects.php
+Conexión exitosa a la base de datos
+Datos recibidos: Array
+(
+    [name] => Racionalización de tramites
+    [desc] => recolección de datos de operación de las dependencias
+    [userId] => 21
+    [start] => 2025-05-25
+    [end] => 2025-05-31
+    [progress] => 80
+    [status] => todo
+)
+
+Datos validados: name=Racionalización de tramites, desc=recolección de datos de operación de las dependencias, userId=21, start=2025-05-25, end=2025-05-31, progress=80, status=todo
+Consulta preparada: INSERT INTO projects (name, `desc`, userId, `start`, `end`, progress, status) VALUES (?, ?, ?, ?, ?, ?, ?)
+Proyecto creado con ID: 12
+Iniciando post_projects.php
+Conexión exitosa a la base de datos
+Datos recibidos: Array
+(
+    [name] => Redes Wifi
+    [desc] => Instalación de wifi para espacios abiertos
+    [userId] => 22
+    [start] => 2025-05-18
+    [end] => 2025-05-28
+    [progress] => 10
+    [status] => todo
+)
+
+Datos validados: name=Redes Wifi, desc=Instalación de wifi para espacios abiertos, userId=22, start=2025-05-18, end=2025-05-28, progress=10, status=todo
+Consulta preparada: INSERT INTO projects (name, `desc`, userId, `start`, `end`, progress, status) VALUES (?, ?, ?, ?, ?, ?, ?)
+Proyecto creado con ID: 13
+Iniciando post_projects.php
+Conexión exitosa a la base de datos
+Datos recibidos: Array
+(
+    [name] => V6
+    [desc] => Integracion del nuevo modulo para pagos en linea
+    [userId] => 16
+    [start] => 2025-05-01
+    [end] => 2025-05-31
+    [progress] => 60
+    [status] => todo
+)
+
+Datos validados: name=V6, desc=Integracion del nuevo modulo para pagos en linea, userId=16, start=2025-05-01, end=2025-05-31, progress=60, status=todo
+Consulta preparada: INSERT INTO projects (name, `desc`, userId, `start`, `end`, progress, status) VALUES (?, ?, ?, ?, ?, ?, ?)
+Proyecto creado con ID: 14
+Iniciando post_projects.php
+Conexión exitosa a la base de datos
+Datos recibidos: Array
+(
+    [name] => Contrato Impresoras
+    [desc] => Estudios Previos Pendientes
+    [userId] => 26
+    [start] => 2025-06-29
+    [end] => 2025-07-18
+    [progress] => 30
+    [status] => todo
+)
+
+Datos validados: name=Contrato Impresoras, desc=Estudios Previos Pendientes, userId=26, start=2025-06-29, end=2025-07-18, progress=30, status=todo
+Consulta preparada: INSERT INTO projects (name, `desc`, userId, `start`, `end`, progress, status) VALUES (?, ?, ?, ?, ?, ?, ?)
+Proyecto creado con ID: 15
+Iniciando post_projects.php
+Conexión exitosa a la base de datos
+Datos recibidos: Array
+(
+    [name] => Soporte Tecnico
+    [desc] => Mantenimiento Equipos Computo
+    [userId] => 24
+    [start] => 2025-07-01
+    [end] => 2025-07-20
+    [progress] => 10
+    [status] => todo
+)
+
+Datos validados: name=Soporte Tecnico, desc=Mantenimiento Equipos Computo, userId=24, start=2025-07-01, end=2025-07-20, progress=10, status=todo
+Consulta preparada: INSERT INTO projects (name, `desc`, userId, `start`, `end`, progress, status) VALUES (?, ?, ?, ?, ?, ?, ?)
+Proyecto creado con ID: 16
+Iniciando post_projects.php
+Conexión exitosa a la base de datos
+Datos recibidos: Array
+(
+    [name] => Base de Datos
+    [desc] => Información de Licencias Nuevas y Obsoletas
+    [userId] => 27
+    [start] => 2025-07-01
+    [end] => 2025-07-12
+    [progress] => 70
+    [status] => todo
+)
+
+Datos validados: name=Base de Datos, desc=Información de Licencias Nuevas y Obsoletas, userId=27, start=2025-07-01, end=2025-07-12, progress=70, status=todo
+Consulta preparada: INSERT INTO projects (name, `desc`, userId, `start`, `end`, progress, status) VALUES (?, ?, ?, ?, ?, ?, ?)
+Proyecto creado con ID: 17

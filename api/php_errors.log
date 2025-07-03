@@ -1,0 +1,5 @@
+[25-May-2025 06:23:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'desc, userId, start, end, progress, status) VALUES (?, ?, ?, ?, ?, ?, ?)' at line 1 in C:\laragon\www\kanban-dashboard\api\post_projects.php:45
+Stack trace:
+#0 C:\laragon\www\kanban-dashboard\api\post_projects.php(45): mysqli->prepare('INSERT INTO pro...')
+#1 {main}
+  thrown in C:\laragon\www\kanban-dashboard\api\post_projects.php on line 45
